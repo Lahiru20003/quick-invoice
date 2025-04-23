@@ -1,6 +1,14 @@
 .app {
   margin: 30px auto 50px auto;
   width: 700px;
+  min-height: 100vh;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+
+  background-image: url('../images/background.jpg'); /* Update path if needed */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .input,
